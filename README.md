@@ -31,10 +31,10 @@
 ---
 
 ## Struktur Repo
-data/ → dataset asli & hasil preprocessing
-notebook/ → kode preprocessing dan eksperimen
-img/ → visualisasi histogram (before & after)
-README.md → laporan singkat
+- data/ → dataset asli & hasil preprocessing
+- notebook/ → kode preprocessing dan eksperimen
+- img/ → visualisasi histogram (before & after)
+- README.md → laporan singkat
 
 
 ---
